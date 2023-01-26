@@ -22,7 +22,7 @@
 
 6. Channel with the highest number of videos using Groupby() in-build function.
 
-7.Role of Punctuation with likes, dislikes and views.
+7. Role of Punctuation with likes, dislikes and views.
 
 
 
